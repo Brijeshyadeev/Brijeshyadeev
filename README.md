@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Software Development.
 - 💞️ I’m looking to collaborate on PHP.
-- 📫 Reach me through my Github email.
+- 📫 Reach me through my Github email. Making a bit of changes.
 
 <!---
 Brijeshyadeev/Brijeshyadeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
